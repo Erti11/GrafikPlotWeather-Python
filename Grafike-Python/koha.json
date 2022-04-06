@@ -1,0 +1,58 @@
+[
+  {
+    "Dita" : "E Hene",
+    "Temperatura" : 5,
+    "Moti" : "Diell",
+    "Shpejtesia e eres" : 12,
+    "Lageshti" : 1
+  },
+  
+  {
+    "Dita" : "E Marte",
+    "Temperatura" : 3,
+    "Moti" : "Re",
+    "Shpejtesia e eres" : 22,
+    "Lageshti" : 3
+  },
+  
+  {
+    "Dita" : "E Merkure",
+    "Temperatura" : 4,
+    "Moti" : "Shi",
+    "Shpejtesia e eres" : 13,
+    "Lageshti" : 5
+  },
+
+  {
+    "Dita" : "E Enjte",
+    "Temperatura" : 2,
+    "Moti" : "Re",
+    "Shpejtesia e eres" : 26,
+    "Lageshti" : 3
+  },
+
+  {
+    "Dita" : "E Premte",
+    "Temperatura" : 8,
+    "Moti" : "Shi",
+    "Shpejtesia e eres" : 14,
+    "Lageshti" : 7
+  },
+
+  {
+    "Dita" : "E Shtune",
+    "Temperatura" : 9,
+    "Moti" : "Diell",
+    "Shpejtesia e eres" : 11,
+    "Lageshti" : 2
+  },
+
+  {
+    "Dita" : "E diel",
+    "Temperatura" : 8,
+    "Moti" : "Diell",
+    "Shpejtesia e eres" : 16,
+    "Lageshti" : 1
+  }
+
+]
